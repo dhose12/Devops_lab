@@ -1,1 +1,1 @@
-# Este repositorio foi criado para melhorar o meu aprendizado e testes devops
+# Este repositório foi criado para melhorar o aprendizado e testes Devops
